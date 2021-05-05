@@ -10149,7 +10149,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #cccc;
-  background-image: url("15740.jpg");
+  background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10211,7 +10211,7 @@ header.masthead .masthead-heading {
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 1.25rem;
-  color: white;
+  color: blue;
 }
 #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
   opacity: 1;

@@ -10148,9 +10148,9 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #cccc;
-  background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
-  background-repeat: no-repeat;
+  background-color: #cccc;
+  background-image: linear-gradient(red, yellow);
+  background-repeat: repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;

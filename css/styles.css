@@ -10150,7 +10150,7 @@ header.masthead {
   text-align: center;
   color: #fff;
   background-image: url("tenor-2.gif");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
@@ -10326,7 +10326,7 @@ header.masthead .masthead-heading {
   height: 80px;
   margin-left: 0;
   text-align: center;
-  color: white;
+  color: Blue;
   border: 7px solid #e9ecef;
   border-radius: 100%;
   background-color: #fed136;
